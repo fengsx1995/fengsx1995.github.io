@@ -10,11 +10,7 @@ In future we will support more formats for QrCode.
 
 ScreenShots:
 
-![ScreenShots1]({{site.url}}/assets/s-1.png)
-
-![ScreenShots2]({{site.url}}/assets/s-2.png)
-
-![ScreenShots3]({{site.url}}/assets/s-3.png)
+![ScreenShots1]({{site.url}}/assets/SitePic.png)
 
 Any Question to below email.
 
