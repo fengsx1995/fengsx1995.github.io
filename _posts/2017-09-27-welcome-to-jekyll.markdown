@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "Welcome to 3Do-ScanApp HomePage!"
+title:  "Welcome to Night Owl HomePage!"
 date:   2017-09-27 22:14:24 +0800
 categories: jekyll update
 ---
-This is a Qr Code Scan App. With It , You can scan QrCode for Email, Card, Or Url etc.
+The ultra-convenient github client tool that everyone loves.
 
-In future we will support more formats for QrCode.
+The main function:
+1. Query the current popular github users.
+2. Query the current popular github library.
+3. Search for useful content in github.
+4. Other features to be discovered by you.
 
 ScreenShots:
 
-![ScreenShots1]({{site.url}}/assets/SitePic.png)
+![ScreenShots1]({{site.url}}/assets/s-1.png)
+
+![ScreenShots2]({{site.url}}/assets/s-2.png)
+
+![ScreenShots3]({{site.url}}/assets/s-3.png)
 
 Any Question to below email.
 
